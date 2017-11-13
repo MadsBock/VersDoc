@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("AaB er de bedste!!!");
+            Console.WriteLine("og det var dagens joke");
             Console.ReadKey();
         }
     }
